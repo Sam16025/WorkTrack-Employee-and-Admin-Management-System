@@ -1,16 +1,43 @@
-# React + Vite
+# WorkTrack – Employee & Admin Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+WorkTrack is a React-based Employee and Admin Management System designed to simplify employee activities and administrative tasks through a user-friendly interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project is developed as a **Front-End Application** using React.js and related web technologies.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Admin Module
+- Admin Dashboard
+- Employee Management
+- Attendance Management
+- Leave Request Management
+- Task Management
+- Ticket Request Management
+- Upcoming Holidays
+- Search and Filter Options
 
-## Expanding the ESLint configuration
+### Employee Module
+- Employee Login and Signup
+- Employee Dashboard
+- Profile Management
+- Attendance Tracking
+- Timesheet Management
+- Task Tracking
+- Leave Requests
+- Ticket Requests
+- Notifications
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Vite
+
+## Project Type
+
+Front-End Development Project.
